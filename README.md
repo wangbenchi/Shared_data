@@ -6,3 +6,6 @@
 
 ## Project 1
 # Data_4_learning.zip is the data for a recent learning study.
+
+## Project 2
+# Data4SalienceSelection is the data for a recent search-probe study.
