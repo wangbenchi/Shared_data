@@ -10,3 +10,6 @@ Data4SalienceSelection is the data for a recent search-probe study.
 
 ## Project 3
 data4ratio is the data for a recent learning study with different ratios.
+
+## Project 4
+data4binding is the data for a recent learning study with binding.
