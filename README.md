@@ -16,3 +16,6 @@ data4binding is the data for a recent learning study with binding.
 
 ## Project 5
 Data.zip is for Across-trial spatial suppression in visual search
+
+## Project 6
+target_code&data.zip is for target-prob learning
