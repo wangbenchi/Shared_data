@@ -19,3 +19,6 @@ Data.zip is for Across-trial spatial suppression in visual search
 
 ## Project 6
 target_code&data.zip is for target-prob learning
+
+## Project 7
+data4LTM-fidelity.zip is for LTM fidelity
