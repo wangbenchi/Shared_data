@@ -18,7 +18,7 @@ data4binding is the data for a recent learning study with binding.
 Data.zip is for Across-trial spatial suppression in visual search
 
 ## Project 6
-target_code&data.zip is for target-prob learning, i.e., "Spatial enhancement due to statistical learning tracks the estimated spatial probability"
+target_code&data.zip is for target-prob learning, i.e., "Spatial enhancement due to statistical learning tracks the estimated spatial probability" by Zhang et al.
 
 ## Project 7
 data4LTM-fidelity.zip is for LTM fidelity
