@@ -22,3 +22,6 @@ target_code&data.zip is for target-prob learning, i.e., "Spatial enhancement due
 
 ## Project 7
 data4LTM-fidelity.zip is for LTM fidelity
+
+## Project 8
+Code4figures.zip is the code used for the paper, recently accepted in NHB, "Neural evidence for attentional capture by salient distractors"
