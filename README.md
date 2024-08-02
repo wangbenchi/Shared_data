@@ -25,3 +25,5 @@ data4LTM-fidelity.zip is for LTM fidelity
 
 ## Project 8
 Code4figures.zip is the code used for the paper, recently accepted in NHB, "Neural evidence for attentional capture by salient distractors"
+
+## Recent submission to NI, we met a trouble in uploading the data, if you need it, contact me directly. 
